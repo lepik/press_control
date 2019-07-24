@@ -1,5 +1,6 @@
 # Compressor control unit, pressure sensor
 Microcontroller: attiny13
+PCB: pressure_contr_tin13.lay6 (SprintLayout 6.0)
 
 Pressure sensor:
 АНАЛОГ ММ-359
