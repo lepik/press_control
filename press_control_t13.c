@@ -2,7 +2,8 @@
  * press_control_t13.c
  *
  * Created: 01.07.2019 9:04:47
- *  Author: Lepik
+ * Author: Lepik
+ * Copyright (c) 2019 Alexey K
  */ 
 
 
